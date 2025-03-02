@@ -12,6 +12,7 @@ Data Engineering & Web Scraping: SQL, BeautifulSoup, Selenium, API Integration, 
 Version Control & Tools: Git, GitHub, Docker, VS Code
 
 ## My Portfolio ##
+https://shaikshabeena5e7.github.io/myportfolio/
 
 🏆 Projects
 🚀 Product Recommendation System (LLM-based)
