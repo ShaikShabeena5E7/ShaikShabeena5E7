@@ -14,7 +14,7 @@ Version Control & Tools: Git, GitHub, Docker, VS Code
 ## My Portfolio ##
 https://shaikshabeena5e7.github.io/myportfolio/
 
-🏆 Projects
+## 🏆 Projects ##
 🚀 Product Recommendation System (LLM-based)
 🔹 Built a FastAPI-based recommendation system that analyzes user behavior and generates personalized product recommendations.
 🔹 Integrated LLMs and NLP techniques for improved context-aware suggestions.
