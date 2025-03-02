@@ -11,7 +11,7 @@ AI/ML & Data Science: LLMs, NLP, Scikit-learn, TensorFlow, PyTorch, Pandas, NumP
 Data Engineering & Web Scraping: SQL, BeautifulSoup, Selenium, API Integration, ETL Pipelines
 Version Control & Tools: Git, GitHub, Docker, VS Code
 
-## My Portfolio##
+## My Portfolio ##
 
 🏆 Projects
 🚀 Product Recommendation System (LLM-based)
